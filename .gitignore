@@ -1,0 +1,6 @@
+*.settings/org.eclipse.jdt.core
+*.class
+*.project
+*.metadata
+*.classpath
+*.settings
