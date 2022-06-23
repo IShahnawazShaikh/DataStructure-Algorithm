@@ -43,7 +43,6 @@ public class BFS {
 		return list;
 	}
 	public static void main(String[] args) {
-		ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 		
 		/***
 		 * 
@@ -56,7 +55,7 @@ public class BFS {
 		 * 
 		 * 
 		 */
-		
+		ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 		
 		for (int i = 0; i < 3; i++) {
 
